@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/jainam_zobaliya" target="blank"><img src="https://img.shields.io/twitter/follow/jainam_zobaliya?logo=twitter&style=for-the-badge" alt="jainam_zobaliya" /></a> </p> -->
 
-- 🔭 I’m currently working on [making my portfolio website.]((Comming Soon))
+- 🔭 I’m currently working on [making my portfolio website.](Comming Soon)
 
 - 🌱 I’m currently strengthening **my DSA skills.**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <table cellspacing="0px" cellpadding="10px" border="0px" style="width=48%">
+  <table cellspacing="0px" cellpadding="100px" border="0px" style="width=30%; position:absolute;">
     <tr>
       <td>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -45,10 +45,9 @@
         <a href="https://flutter.dev" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40"/>
         </a>
-      </td>
-      <td>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
+      </td>      <td>
+        <a href="https://www.php.net" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/>
         </a>
       </td>
       <td>
@@ -62,12 +61,17 @@
         </a>
       </td>
       <td>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/>
         </a>
       </td>
     </tr>
     <tr>
+      <td>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
+        </a>
+      </td>
       <td>
         <a href="https://heroku.com" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" width="40" height="40"/>
@@ -94,11 +98,6 @@
         </a>
       </td>
       <td>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/>
         </a>
@@ -109,41 +108,41 @@
         </a>
       </td>
       <td>
-        <a href="https://www.php.net" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/>
         </a>
       </td>
     </tr>
-<!--     <tr> -->
-<!--       <td>
+<!--     <tr>
+      <td>
         <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
           <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/>
         </a>
-      </td> -->
-<!--       <td>
+      </td>
+      <td>
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" width="40" height="40"/>
         </a>
-      </td> -->
-<!--       <td>
+      </td>
+      <td>
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/>
         </a>
-      </td> -->
-<!--       <td>
+      </td>
+      <td>
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/>
         </a>
-      </td> -->
-<!--       <td>
+      </td>
+      <td>
         TableContent
-      </td> -->
-<!--     </tr> -->
+      </td>
+    </tr> -->
   </table>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainamzobaliya&show_icons=true&locale=en&layout=compact" alt="jainamzobaliya"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainamzobaliya&show_icons=true&locale=en" alt="jainamzobaliya"/>
 </p>
 
 <table cellspacing="0px" cellpadding="0px" border="0px solid transparent">
