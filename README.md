@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently strengthening **my DSA skills.**
 
-- 👨‍💻 All of my projects are available at (my portfolio (Comming Soon)).
+- 👨‍💻 All of my projects will be available at (my portfolio (Comming Soon)).
 
 - 📫 How to reach me **jainamzobaliya25052000@gmail.com**
 
