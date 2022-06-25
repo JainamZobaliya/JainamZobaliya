@@ -12,37 +12,9 @@
 
 - 📫 How to reach me **jainamzobaliya25052000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://twitter.com/jainam_zobaliya" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="jainam_zobaliya" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/jainam-zobaliya" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="jainam-zobaliya" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/jainamzobaliya" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-2020-2-1.svg" alt="jainamzobaliya" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/jainam_zobaliya" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="jainam_zobaliya" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/jainamzobaliya" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/344/codechef.png" alt="jainamzobaliya" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/jainam_zobaliya" target="blank">
-    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="jainam_zobaliya" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/jainamzobaliya" target="blank">
-    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="jainamzobaliya" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/jainamzobaliya" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="jainamzobaliya" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <table cellspacing="0px" cellpadding="10px" border="0px" align="center">
+  <table cellspacing="0px" cellpadding="10px" border="0px" style="width=48%">
     <tr>
       <td>
         <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -74,13 +46,23 @@
           <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="flutter" width="40" height="40"/>
         </a>
       </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
         </a>
       </td>
+      <td>
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://postman.com" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td>
         <a href="https://heroku.com" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" alt="heroku" width="40" height="40"/>
@@ -106,8 +88,11 @@
           <img src="https://cdn.worldvectorlogo.com/logos/linux-tux-1.svg" alt="linux" width="40" height="40"/>
         </a>
       </td>
-    </tr>
-    <tr>
+      <td>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/>
+        </a>
+      </td>
       <td>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="40" height="40"/>
@@ -119,56 +104,43 @@
         </a>
       </td>
       <td>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-          <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/>
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/>
         </a>
       </td>
-      <td>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40"/>
+    </tr>
+<!--     <tr> -->
+<!--       <td>
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+          <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/>
         </a>
-      </td>
-      <td>
+      </td> -->
+<!--       <td>
         <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" width="40" height="40"/>
         </a>
-      </td>
-      <td>
+      </td> -->
+<!--       <td>
         <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="tensorflow" width="40" height="40"/>
         </a>
-      </td>
-      <td>
+      </td> -->
+<!--       <td>
         <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="xd" width="40" height="40"/>
         </a>
-      </td>
+      </td> -->
 <!--       <td>
         TableContent
       </td> -->
-    </tr>
+<!--     </tr> -->
   </table>
 </p>
 
@@ -176,15 +148,39 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainamzobaliya&show_icons=true&locale=en&layout=compact" alt="jainamzobaliya"/>
 </p>
 
-<!-- <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainamzobaliya&show_icons=true&locale=en" alt="jainamzobaliya"/>
-</p> -->
-
-<p >
+<p>
   <img align="left" style="width:48%" src="https://github-readme-stats.vercel.app/api?username=jainamzobaliya&show_icons=true&locale=en" alt="jainamzobaliya"/>
   <img align="right" style="width:48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jainamzobaliya&" alt="jainamzobaliya"/>
 </p>
-&nbsp;
+
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/jainam_zobaliya" target="blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="jainam_zobaliya" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/jainam-zobaliya" target="blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="jainam-zobaliya" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/jainamzobaliya" target="blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/facebook-2020-2-1.svg" alt="jainamzobaliya" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/jainam_zobaliya" target="blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" alt="jainam_zobaliya" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/jainamzobaliya" target="blank">
+    <img align="center" src="https://img.icons8.com/ios-filled/344/codechef.png" alt="jainamzobaliya" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/jainam_zobaliya" target="blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="jainam_zobaliya" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/jainamzobaliya" target="blank">
+    <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/344/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="jainamzobaliya" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/jainamzobaliya" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="jainamzobaliya" height="30" width="40" />
+  </a>
+</p>
+
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=jainamzobaliya&label=Profile%20views&color=0e75b6&style=flat" alt="jainamzobaliya"/>
 </p>
