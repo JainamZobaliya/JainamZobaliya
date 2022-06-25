@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects will be available at (my portfolio (Comming Soon)).
 
-- 📫 How to reach me **jainamzobaliya25052000@gmail.com**
+<!-- - 📫 How to reach me **jainamzobaliya25052000@gmail.com** -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -157,6 +157,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
+  <a href="mailto:jainamzobaliya25052000@gmail.com" target="blank">
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="mailto:jainamzobaliya25052000@gmail.com" height="30" width="40" />
+  </a>
   <a href="https://twitter.com/jainam_zobaliya" target="blank">
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" alt="jainam_zobaliya" height="30" width="40" />
   </a>
