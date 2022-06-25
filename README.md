@@ -61,6 +61,11 @@
           <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40"/>
         </a>
       </td>
+      <td>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/>
+        </a>
+      </td>
     </tr>
     <tr>
       <td>
@@ -106,13 +111,6 @@
       <td>
         <a href="https://www.php.net" target="_blank" rel="noreferrer">
           <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="40" height="40"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/>
         </a>
       </td>
     </tr>
