@@ -142,7 +142,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jainamzobaliya&show_icons=true&locale=en" alt="jainamzobaliya"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jainamzobaliya&show_icons=true&locale=en&layout=compact" alt="jainamzobaliya" />
 </p>
 
 <table cellspacing="0px" cellpadding="0px" border="0px solid transparent">
